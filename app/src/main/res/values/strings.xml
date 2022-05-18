@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniProject</string>
+    <string name="list_buku">List Buku</string>
+    <string name="cari_disini">Cari Disini</string>
+    <string name="kode_buku">Kode Buku</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="mata_pelajaran">Mata Pelajaran</string>
+    <string name="url">URL</string>
+    <string name="baca">Baca</string>
+</resources>
